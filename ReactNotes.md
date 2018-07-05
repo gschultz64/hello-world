@@ -4,7 +4,7 @@
 ### "className" refers to the class you have created in the react app
 ### "render" is baked into "Component"
 
-### Immutable Data Lesson
+#### Immutable Data Lesson
 myObj = {key1: "value"}
 function(myObj) {
   myObj.key1 = "foo"
